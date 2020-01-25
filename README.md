@@ -1,7 +1,8 @@
 # Metadata Dictionary for Salesforce
 
+[![Travis CI](https://img.shields.io/travis/amitjpr/SalesforceMetadataDictionary?style=plastic)](https://travis-ci.com/amitjpr/SalesforceMetadataDictionary)
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=amitjpr&repo=SalesforceMetadataDictionary&ref=Master">
+<a href="https://githubsfdeploy.herokuapp.com?owner=amitjpr&repo=SalesforceMetadataDictionary&ref=master">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
