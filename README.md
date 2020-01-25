@@ -1,4 +1,7 @@
 # Metadata Dictionary for Salesforce
+https://img.shields.io/github/license/amitjpr/SalesforceMetadataDictionary?style=for-the-badge
+
+
 
 [![Travis CI](https://img.shields.io/travis/amitjpr/SalesforceMetadataDictionary?style=plastic)](https://travis-ci.com/amitjpr/SalesforceMetadataDictionary)
 
