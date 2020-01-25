@@ -1,5 +1,5 @@
 # Metadata Dictionary for Salesforce
-https://img.shields.io/github/license/amitjpr/SalesforceMetadataDictionary?style=for-the-badge
+[![License](https://img.shields.io/github/license/amitjpr/SalesforceMetadataDictionary?style=for-the-badge)]
 
 
 
