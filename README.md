@@ -1,9 +1,8 @@
 # Metadata Dictionary for Salesforce
-![License](https://img.shields.io/github/license/amitjpr/SalesforceMetadataDictionary?style=for-the-badge)
+[![License: MIT](https://img.shields.io/github/license/amitjpr/SalesforceMetadataDictionary?style=flat&logo=appveyor)]((https://opensource.org/licenses/MIT))
+[![Travis CI](https://img.shields.io/travis/amitjpr/SalesforceMetadataDictionary?style=flat&logo=appveyor)](https://travis-ci.com/amitjpr/SalesforceMetadataDictionary)
+[![Deploy to Salesforce](https://img.shields.io/badge/Salesforce-Deploy-blue?style=flat&logo=appveyor)](https://githubsfdeploy.herokuapp.com?owner=amitjpr&repo=SalesforceMetadataDictionary&ref=master)
 
-
-
-[![Travis CI](https://img.shields.io/travis/amitjpr/SalesforceMetadataDictionary?style=plastic)](https://travis-ci.com/amitjpr/SalesforceMetadataDictionary)
 
 <a href="https://githubsfdeploy.herokuapp.com?owner=amitjpr&repo=SalesforceMetadataDictionary&ref=master">
   <img alt="Deploy to Salesforce"
