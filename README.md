@@ -4,10 +4,7 @@
 [![Deploy to Salesforce](https://img.shields.io/badge/Salesforce-Deploy-blue?style=flat&logo=appveyor)](https://githubsfdeploy.herokuapp.com?owner=amitjpr&repo=SalesforceMetadataDictionary&ref=master)
 
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=amitjpr&repo=SalesforceMetadataDictionary&ref=master">
-  <img alt="Deploy to Salesforce"
-       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
-</a>
+
 
 
 
